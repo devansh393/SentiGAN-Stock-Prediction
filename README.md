@@ -68,6 +68,6 @@ Contains the raw data files used in this project:
 
 ## References
 
-This project is based on the dissertation paper: **SentiGAN-Stock: Sentiment-Enhanced GAN for Stock Market Prediction** by **Devansh Rastogi (231054762)**.
+This project is based on the dissertation paper: **SentiGAN-Stock: Sentiment-Enhanced GAN for Stock Market Prediction** by **Devansh Rastogi**.
 
 For more detailed insights, please refer to the accompanying documentation or code comments.
